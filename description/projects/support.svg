@@ -8,6 +8,7 @@
   <title>YOUTUBE</title>
   <g class="noshadow" shape-rendering="crispEdges" style="" transform="matrix(1.074564, 0, 0, 1, 0, 0)">
     <rect x="1" y="1" width="146" height="28" style="fill: #FDB237;" />
+    <rect x="1" y="1" width="146" height="28" style="fill: rgba(0, 0, 0, 0.2);" />
     <rect x="2" y="2" width="144" height="26" style="fill: none; stroke-width:2px; stroke: rgba(0, 0, 0, 0.6);" />
   </g>
   <g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="100" transform="matrix(1, 0, 0, 1, 13, 0)">

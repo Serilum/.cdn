@@ -1,1 +1,5 @@
 .git
+README.md
+script
+__pycache__
+*.py
